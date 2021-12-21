@@ -20,10 +20,12 @@ You can find different projects and scripts that I had the opportunity to do. <b
 </div>
 
 <div align="center">
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teckinfor&hide=tex&layout=compact&color=black)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Teckinfor&show_icons=true&theme=algolia" alt="Teckinfor's Github Stats"><br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teckinfor&hide=tex&layout=compact&color=black)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </br>
 
