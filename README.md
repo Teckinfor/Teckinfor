@@ -23,7 +23,7 @@ I like the field of programming and scripting so I try it when I have time. You 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Teckinfor&show_icons=true&theme=algolia" alt="Teckinfor's Github Stats"><br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teckinfor&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teckinfor&hide=tex&layout=compact&color=black)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
