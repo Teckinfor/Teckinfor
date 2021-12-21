@@ -34,8 +34,8 @@ I like the field of programming and scripting so I try it when I have time. You 
 
 <i>All my others links :</i><br>
 
-<a href="https://www.linkedin.com/in/senechaljulien/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/julien_senechal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/senechaljulien/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-senechaljulien-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/julien_senechal" target="_blank"><img src="https://img.shields.io/badge/Twitter-julien_senechal-blue?style=for-the-badge&logo=twitter" alt="Twitter"></a>
 <a href="https://hub.docker.com/u/teckinfor" target="_blank"><img src="https://img.shields.io/badge/DockerHub-teckinfor-blue?style=for-the-badge&logo=docker" alt="DockerHub"></a>
 </div>
 
