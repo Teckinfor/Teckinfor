@@ -27,7 +27,7 @@ I like the field of programming and scripting so I try it when I have time. You 
 
 ---
 
-<i>My Discord's server :</i><br>
+<i>My Discord's server :</i><br><br>
 <a href="https://discord.gg/FJEZq47XNy" target="_blank"><img src="https://img.shields.io/discord/349212400790142996?color=blue&label=Spirlow&style=for-the-badge" alt="Discord"></a>
 
 <i>All my links :</i><br>
