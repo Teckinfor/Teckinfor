@@ -21,8 +21,9 @@ I like the field of programming and scripting so I try it when I have time. You 
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teckinfor&show_icons=true&theme=algolia" alt="Teckinfor's Github Stats">
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teckinfor)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teckinfor&show_icons=true&theme=algolia" alt="Teckinfor's Github Stats"><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teckinfor)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
