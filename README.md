@@ -21,7 +21,7 @@ I like the field of programming and scripting so I try it when I have time. You 
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teckinfor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Teckinfor's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teckinfor&show_icons=true&theme=monokai" alt="Teckinfor's Github Stats">
 
 </br>
 
@@ -30,7 +30,7 @@ I like the field of programming and scripting so I try it when I have time. You 
 <i>My Discord's server :</i><br><br>
 <a href="https://discord.gg/FJEZq47XNy" target="_blank"><img src="https://img.shields.io/discord/349212400790142996?color=blue&label=Spirlow&style=for-the-badge" alt="Discord"></a>
 
-<i>All my links :</i><br>
+<i>All my others links :</i><br>
 
 <a href="https://www.linkedin.com/in/senechaljulien/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/julien_senechal" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
