@@ -1,5 +1,5 @@
 <div align="center">
-<h2> <b>Hello there</b>, as Obi-wan says ! <img src="https://github.com/Teckinfor/Teckinfor/blob/main/gif/Hi.gif" width="30px"></h2>
+<h2> <b>Hello there</b>, as Obi-wan says ! <img src="https://github.com/Teckinfor/Teckinfor/blob/main/gif/Hi.gif" width="15px"></h2>
 </div>
 
 <div align="center" width="50">
