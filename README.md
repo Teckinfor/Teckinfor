@@ -10,7 +10,7 @@
 
 <div align="center">
 
-My name is Julien Sénéchal, a cybersecurity student. <br>
+My name is Julien Sénéchal, an ICT Engineer. <br>
 I like the field of programming and scripting so I try it when I have time. <br>
 You can find different projects and scripts that I had the opportunity to do. <br>
 
