@@ -15,7 +15,7 @@ I like the field of programming and scripting so I try it when I have time. <br>
 You can find different projects and scripts that I had the opportunity to do. <br>
 
 
-<i>Obviously, since I’m just a student and my field is not development, I often make mistakes that I try to correct !</i> 😊
+<i>Obviously, since I’m just a newbie and my field is not development, I often make mistakes that I try to correct !</i> 😊
 
 </div>
 
